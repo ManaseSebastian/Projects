@@ -1,0 +1,20 @@
+D:\Programare\C#\Jocuri\Jocuri\bin\Debug\Jocuri.exe.config
+D:\Programare\C#\Jocuri\Jocuri\bin\Debug\Jocuri.exe
+D:\Programare\C#\Jocuri\Jocuri\bin\Debug\Jocuri.pdb
+D:\Programare\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Form1.resources
+D:\Programare\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
+D:\Programare\C#\Jocuri\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.Cache
+D:\Programare\C#\Jocuri\Jocuri\obj\Debug\Jocuri.exe
+D:\Programare\C#\Jocuri\Jocuri\obj\Debug\Jocuri.pdb
+D:\Programare\C#\Jocuri\Jocuri\obj\Debug\Jocuri.csprojResolveAssemblyReference.cache
+D:\Programare\C#\Jocuri\Jocuri\obj\Debug\Jocuri.Form2.resources
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\bin\Debug\Jocuri.exe.config
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\obj\Debug\Jocuri.exe
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\obj\Debug\Jocuri.pdb
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\bin\Debug\Jocuri.exe
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\bin\Debug\Jocuri.pdb
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\obj\Debug\Jocuri.csprojResolveAssemblyReference.cache
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\obj\Debug\Jocuri.Form1.resources
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\obj\Debug\Jocuri.Form2.resources
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\obj\Debug\Jocuri.Properties.Resources.resources
+D:\Facultate\Proiecte\C#\Sonic X\Jocuri\obj\Debug\Jocuri.csproj.GenerateResource.Cache

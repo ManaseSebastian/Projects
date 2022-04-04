@@ -1,0 +1,15 @@
+Pizza Margherita
+Ingrediente: mozzarela, ulei masline, busuioc, sos rosii
+ 15 lei, 25 lei, 30 lei
+Pizza Pepperoni
+Ingrediente: mozzarela, salam picant, pepperoni
+ 16 lei, 26 lei, 31 lei
+Pizza Prosciutto
+Ingrediente: mozzarela, masline negre, ciuperci, busuioc 
+ 18 lei, 28 lei, 35 lei
+Pizza Vegetariana
+Ingrediente: sos rosii, cascaval vegetal, ceapa, ciuperci, porumb, ardei rosu 
+ 17 lei, 25 lei, 34 lei
+Pizza cu Pui
+Ingrediente: mozzarela, piept de pui, masline, ciuperci, porumb 
+ 21 lei, 29 lei, 39 lei

@@ -1,0 +1,20 @@
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\bin\Debug\Tema1.exe.config
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\bin\Debug\Tema1.exe
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\bin\Debug\Tema1.pdb
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\obj\Debug\Tema1.csprojResolveAssemblyReference.cache
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\obj\Debug\Tema1.Form1.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\obj\Debug\Tema1.csproj.GenerateResource.Cache
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\obj\Debug\Tema1.exe
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\obj\Debug\Tema1.pdb
+D:\Facultate\An III (Semestrul II)\Informatica Industriala (II)\Laboratoare\Tema1\Tema1\Tema1\obj\Debug\Tema1.Form2.resources
+D:\Facultate\Proiecte\PizzaApp\Tema1\bin\Debug\Tema1.exe.config
+D:\Facultate\Proiecte\PizzaApp\Tema1\obj\Debug\Tema1.pdb
+D:\Facultate\Proiecte\PizzaApp\Tema1\bin\Debug\Tema1.exe
+D:\Facultate\Proiecte\PizzaApp\Tema1\bin\Debug\Tema1.pdb
+D:\Facultate\Proiecte\PizzaApp\Tema1\obj\Debug\Tema1.csprojResolveAssemblyReference.cache
+D:\Facultate\Proiecte\PizzaApp\Tema1\obj\Debug\Tema1.Form1.resources
+D:\Facultate\Proiecte\PizzaApp\Tema1\obj\Debug\Tema1.Form2.resources
+D:\Facultate\Proiecte\PizzaApp\Tema1\obj\Debug\Tema1.Properties.Resources.resources
+D:\Facultate\Proiecte\PizzaApp\Tema1\obj\Debug\Tema1.csproj.GenerateResource.Cache
+D:\Facultate\Proiecte\PizzaApp\Tema1\obj\Debug\Tema1.exe
